@@ -484,6 +484,7 @@ var x = d3.scale.linear().domain([Math.floor((tday.getTime()-bday.getTime())/msP
 var y = d3.scale.linear().domain([ -1, 1]).range([h,0]);
 
 var pad = 50;
+d3.selectAll('svg').remove();
 var svg = d3.select(".plot")
     .append("svg:svg")
     .attr("height", h + pad)
