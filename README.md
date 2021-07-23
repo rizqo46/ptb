@@ -6,4 +6,4 @@ This program is designed due to tasks of the subjects
 MA2252 Introduction to Numbers Theory Even Semester 2018/2019 Mathematics Study Program, 
 Bandung Institute of Technology (
 
-Link : http://rizqo46.github.io/ptb/biorythmkel3-id.html
+Link : http://rizqo46.github.io/ptb/index.html
